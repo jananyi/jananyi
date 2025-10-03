@@ -21,7 +21,9 @@
 
 [![GFG Coding Profile](https://coding-cards.vercel.app/api/gfg-stats?action=profileCard&theme=ldark&userName=ijana10ag)](https://www.geeksforgeeks.org/user/ijana10ag/)
 
-[![HackerRank badges](https://hackerrank-badges.vercel.app/api/ijanany08)](https://hackerrank.com/profile/ijanany08)
+![Java 5⭐](https://img.shields.io/badge/Java-5%E2%AD%90-white?style=for-the-badge&logo=java&logoColor=orange)
+![Python 2⭐](https://img.shields.io/badge/Python-2%E2%AD%90-white?style=for-the-badge&logo=python&logoColor=blue)
+![SQL 4⭐](https://img.shields.io/badge/SQL-4%E2%AD%90-white?style=for-the-badge&logo=postgresql&logoColor=orange)
 
 ---
 
