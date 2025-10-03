@@ -1,16 +1,38 @@
-## Hi there 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋%20I'm%20Janany&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+# Hi 👋 I'm Janany  
 
-<!--
-**jananyi/jananyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Technology | CGPA: 9  
+💻 Always debugging, discovering, and deploying — from MERN projects to AWS adventures.
+🌱 Currently exploring MERN, Docker, AWS, and DSA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Languages:** Java, Python, JavaScript  
+- **Frontend:** HTML, CSS, Bootstrap, Tailwind, React 
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, SQLite, MySQL
+- **Tools & Platforms:** Git, GitHub, Docker, AWS  
+
+---
+
+## 📊 Competitive Programming
+- 🟢 [LeetCode](https://leetcode.com/u/IJanany/)  
+- 🟢 [HackerRank](https://www.hackerrank.com/profile/ijanany08)
+- 🟢 [GeeksForGeeks](https://www.geeksforgeeks.org/user/ijana10ag/)
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jananyi&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jananyi&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janany-i/)  
+
+---
+
+![GitHub followers](https://img.shields.io/github/followers/jananyi?label=Follow&style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=jananyi&color=blue)  
