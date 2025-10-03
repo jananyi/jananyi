@@ -22,12 +22,7 @@
     <img src="https://leetcard.jacoblin.cool/IJanany?theme=dark&font=Baloo%202" alt="LeetCode Stats" style="height:150px;border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,0.35)">
   </a>
 
-  <a href="https://www.hackerrank.com/profile/ijanany08" title="HackerRank" style="text-decoration:none">
-    <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;padding:10px 16px;border-radius:12px;border:1px solid rgba(0,0,0,0.06);min-width:170px;">
-      <img src="https://img.shields.io/badge/HackerRank-ijanany08-2EC866?logo=hackerrank&style=flat-square" alt="HackerRank">
-      <small style="opacity:0.85;margin-top:6px">Problems • Badges • Ranks</small>
-    </div>
-  </a>
+[![GFG Coding Profile](https://coding-cards.vercel.app/api/gfg-stats?action=profileCard&theme=light&userName=ijana10ag)](https://www.geeksforgeeks.org/user/ijana10ag/)
 
   <a href="https://www.geeksforgeeks.org/user/ijana10ag/" title="GeeksforGeeks" style="text-decoration:none">
     <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;padding:10px 16px;border-radius:12px;border:1px solid rgba(0,0,0,0.06);min-width:170px;">
