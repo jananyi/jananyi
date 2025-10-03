@@ -17,14 +17,25 @@
 
 ## 🏆 Competitive Programming Profiles
 
-### LeetCode
-![LeetCode Stats Card](https://leetcode-stats-card-generator.vercel.app/api?username=IJanany&theme=dark)
+<div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
+  <a href="https://leetcode.com/u/IJanany/" title="LeetCode">
+    <img src="https://leetcard.jacoblin.cool/IJanany?theme=dark&font=Baloo%202" alt="LeetCode Stats" style="height:150px;border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,0.35)">
+  </a>
 
-### HackerRank
-[![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ijanany08)
+  <a href="https://www.hackerrank.com/profile/ijanany08" title="HackerRank" style="text-decoration:none">
+    <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;padding:10px 16px;border-radius:12px;border:1px solid rgba(0,0,0,0.06);min-width:170px;">
+      <img src="https://img.shields.io/badge/HackerRank-ijanany08-2EC866?logo=hackerrank&style=flat-square" alt="HackerRank">
+      <small style="opacity:0.85;margin-top:6px">Problems • Badges • Ranks</small>
+    </div>
+  </a>
 
-### GeeksforGeeks
-![GeeksForGeeks Stats](https://gfg-stats-card-generator.vercel.app/api?username=ijana10ag&theme=dark)
+  <a href="https://www.geeksforgeeks.org/user/ijana10ag/" title="GeeksforGeeks" style="text-decoration:none">
+    <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;padding:10px 16px;border-radius:12px;border:1px solid rgba(0,0,0,0.06);min-width:170px;">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-ijana10ag-0F9D58?logo=geeksforgeeks&style=flat-square" alt="GfG">
+      <small style="opacity:0.85;margin-top:6px">Articles • Practice • Profile</small>
+    </div>
+  </a>
+</div>
 
 ---
 
