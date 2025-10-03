@@ -17,20 +17,11 @@
 
 ## 🏆 Competitive Programming Profiles
 
-<div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
-  <a href="https://leetcode.com/u/IJanany/" title="LeetCode">
-    <img src="https://leetcard.jacoblin.cool/IJanany?theme=dark&font=Baloo%202" alt="LeetCode Stats" style="height:150px;border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,0.35)">
-  </a>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/IJanany?theme=dark&font=Baloo%202&ext=activity)](https://leetcode.com/u/IJanany/)
 
-[![GFG Coding Profile](https://coding-cards.vercel.app/api/gfg-stats?action=profileCard&theme=light&userName=ijana10ag)](https://www.geeksforgeeks.org/user/ijana10ag/)
+[![GFG Coding Profile](https://coding-cards.vercel.app/api/gfg-stats?action=profileCard&theme=ldark&userName=ijana10ag)](https://www.geeksforgeeks.org/user/ijana10ag/)
 
-  <a href="https://www.geeksforgeeks.org/user/ijana10ag/" title="GeeksforGeeks" style="text-decoration:none">
-    <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;padding:10px 16px;border-radius:12px;border:1px solid rgba(0,0,0,0.06);min-width:170px;">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-ijana10ag-0F9D58?logo=geeksforgeeks&style=flat-square" alt="GfG">
-      <small style="opacity:0.85;margin-top:6px">Articles • Practice • Profile</small>
-    </div>
-  </a>
-</div>
+[![HackerRank badges](https://hackerrank-badges.vercel.app/api/ijanany08)](https://hackerrank.com/profile/ijanany08)
 
 ---
 
