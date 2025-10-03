@@ -17,9 +17,11 @@
 ---
 
 ## 📊 Competitive Programming
-- 🟢 [LeetCode](https://leetcode.com/u/IJanany/)  
-- 🟢 [HackerRank](https://www.hackerrank.com/profile/ijanany08)
-- 🟢 [GeeksForGeeks](https://www.geeksforgeeks.org/user/ijana10ag/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/IJanany/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ijanany08)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ijana10ag/)  
+
 
 ---
 
