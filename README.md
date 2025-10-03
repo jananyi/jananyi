@@ -17,14 +17,16 @@
 
 ## 🏆 Competitive Programming
 
+
 ### LeetCode
-![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=IJanany&theme=radical&showRank=true)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/IJanany/)
 
 ### HackerRank
-[![HackerRank](https://cp-logo.vercel.app/hackerrank/ijanany08?theme=dark)](https://www.hackerrank.com/profile/ijanany08)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ijanany08)
 
 ### GeeksforGeeks
-[![GeeksforGeeks](https://cp-logo.vercel.app/geeksforgeeks/ijana10ag?theme=dark)](https://www.geeksforgeeks.org/user/ijana10ag/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ijana10ag/)
+
 
 ---
 
@@ -33,11 +35,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jananyi&show_icons=true&theme=radical&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jananyi&layout=compact&theme=radical&hide_border=false)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jananyi&theme=radical&hide_border=false)
-
----
-
-## 🎵 Currently Coding To
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=jananyi&cover_image=true&theme=novatorem&show_offline=false&background_color=13152C&interchange=false)
 
 ---
 
