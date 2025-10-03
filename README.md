@@ -21,9 +21,18 @@
 
 [![GFG Coding Profile](https://coding-cards.vercel.app/api/gfg-stats?action=profileCard&theme=ldark&userName=ijana10ag)](https://www.geeksforgeeks.org/user/ijana10ag/)
 
-![Java 5⭐](https://img.shields.io/badge/Java-5%E2%AD%90-white?style=for-the-badge&logo=java&logoColor=orange)
-![Python 2⭐](https://img.shields.io/badge/Python-2%E2%AD%90-white?style=for-the-badge&logo=python&logoColor=blue)
-![SQL 4⭐](https://img.shields.io/badge/SQL-4%E2%AD%90-white?style=for-the-badge&logo=postgresql&logoColor=orange)
+<div align="center">
+  
+  <!-- Java Badge -->
+  <img src="https://img.shields.io/badge/Java-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-f7df1e?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" height="85">
+  
+  <!-- Python Badge -->
+  <img src="https://img.shields.io/badge/Python-%E2%AD%90%E2%AD%90-ffcf40?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" height="85">
+  
+  <!-- SQL Badge -->
+  <img src="https://img.shields.io/badge/SQL-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-c1c1c1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL badge" height="85">
+
+</div>
 
 ---
 
