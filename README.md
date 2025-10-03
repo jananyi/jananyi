@@ -15,18 +15,16 @@
 
 ---
 
-## 🏆 Competitive Programming
-
+## 🏆 Competitive Programming Profiles
 
 ### LeetCode
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/IJanany/)
+![LeetCode Stats Card](https://leetcode-stats-card-generator.vercel.app/api?username=IJanany&theme=dark)
 
 ### HackerRank
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ijanany08)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ijanany08)
 
 ### GeeksforGeeks
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ijana10ag/)
-
+![GeeksForGeeks Stats](https://gfg-stats-card-generator.vercel.app/api?username=ijana10ag&theme=dark)
 
 ---
 
